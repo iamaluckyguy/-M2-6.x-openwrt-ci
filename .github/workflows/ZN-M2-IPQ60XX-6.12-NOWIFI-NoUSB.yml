@@ -1,4 +1,4 @@
-name: ZN-M2-IPQ60XX-6.12-NOWIFI
+name: ZN-M2-IPQ60XX-6.12-NOWIFI-NoUSB
 
 on:
   workflow_dispatch:
